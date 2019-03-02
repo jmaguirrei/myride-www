@@ -1,0 +1,1 @@
+// Non-dependant fragmentsexport { default as Header} from '@root/lib/fragments/Header';export { default as Menu} from '@root/lib/fragments/Menu';export { default as Footer } from './Footer';// Dependant fragmentsexport { default as Pages } from './Pages';
