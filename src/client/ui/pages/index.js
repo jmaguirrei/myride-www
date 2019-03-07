@@ -1,1 +1,1 @@
-export { default as Home } from './<Home>/Home';export { default as Agreements } from './<Agreements>/Agreements';export { default as Faq } from './<Faq>/Faq';export { default as Help } from './<Help>/Help';
+export { default as Home } from './<Home>/Home';export { default as Agreements } from './<Agreements>/Agreements';export { default as Faq } from './<Faq>/Faq';// export { default as Help } from './<Help>/Help';
